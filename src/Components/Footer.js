@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2020 Lev Faiger and perfect React Js</li>
+              <li>&copy; Copyright 2020 Global Health Care</li>
            </ul>
 
         </div>

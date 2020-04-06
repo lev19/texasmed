@@ -1,8 +1,9 @@
 {
   "main": {
-    "name":"Lev Faiger",
+    "name":"Global Health Care",
     "occupation":"Full-stack web developer using ReactJs, Javascript ES5, ES6  and  .Net 4.6",
-    "description":" Developing non-standard super rich web applications using sophisticated client technics.   Solving complex business problems using self-designed algorithms on server side.",
+    "description":"Human body is one of the variable system in the universe. 242 billion cells produced every day by the average human body.  Cells are always created and destroyed in the human body. About 300 million cells die every minute in our bodies",
+    "mainTarget":"Our mission is continus control that all these chnages in our body are positive. Our system will detect on time in case of something is going wrong ",
     "subDescription":"(It's better to read this web page when you press PLAY button)",
     "image":"profilepic.jpg",
     "bio":"Client side: Rich GUI needed to be built. The forms are programmed like collections of components for easy reuse and maintenance. By  react, pure javascript classes.Server side: Developing complicated algorithms for hotel industry. Price management algorithms. Transfer data in real time to different external chanels like Booking.com , Airbnb, Expidea. Algorithms are coded by C# based on different designed patterns . Processes were needed to be very time efficient. Big amount of data is needed to be proccessed",
