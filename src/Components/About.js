@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Embed } from 'semantic-ui-react'
 
 
 class About extends Component {
@@ -47,7 +48,17 @@ class About extends Component {
                         </p>
                      </div>
                   </div>
-               </div>
+             
+                  <div className="row">
+
+                  <Embed
+    id='7GC0Jme2Fj4'
+    
+    source='youtube'
+  />
+                  </div>
+             
+              </div>
             </div>
 
          </section>

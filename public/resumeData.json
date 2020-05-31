@@ -34,20 +34,22 @@
   },
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "educationTitle":"Blood portable",
     "education":[
       {
-        "school":"TECHNION,  Israel institute of technology",
-        "degree":"Bachelor of Engineering",
-        "graduated":"1997",
-        "description":"department of chemical engineering, graduated"
+        "school":"Complete blood count (CBC)",
+        "degree":"This common blood test measures the amount of various types of blood cells in a sample of your blood. Blood cancers may be detected using this test if too many or too few of a type of blood cell or abnormal cells are found",
+        "graduated":"",
+        "description":""
       },
       {
-        "school":"IDF,computer department of Israel Airforce",
-        "degree":"Software course for programmers",
-        "graduated":"1997",
-        "description":"C++,Oracle,General Computer Science, data structures, algorithms"
+        "school":"Blood protein testing",
+        "degree":"A test (electrophoresis) to examine various proteins in your blood can aid in detecting certain abnormal immune system proteins (immunoglobulins) ",
+        "graduated":"",
+        "description":""
       }
     ],
+    "workTitle":"Urea portable",
     "work":[
       {
         "company":"IEC",
@@ -78,6 +80,32 @@
         "description":"React/REDUX/HOOKS,    Angular,   JavaScript/jQuery, C#,  ASP.NET WebApi,  ASP.NET MVC,   Multithreading,   Troubleshoot High .NET App CPU and complexity,   Worked in both Agile and Waterfall settings"
       }
     ],
+    "imagingTitle":"Medical imaging",
+    "imaging" :[
+      {
+        "title":"MRI",
+        "description":"This common blood test measures the amount of various types of blood cells in a sample of your blood. Blood cancers may be detected using this test if too many or too few of a type of blood cell or abnormal cells are found"
+        
+      },
+      {
+        "title":"CT",
+        "description":"This common blood test measures the amount of various types of blood cells in a sample of your blood. Blood cancers may be detected using this test if too many or too few of a type of blood cell or abnormal cells are found"
+        
+      },
+      {
+        "title":"Ultra sound",
+        "description":"This common blood test measures the amount of various types of blood cells in a sample of your blood. Blood cancers may be detected using this test if too many or too few of a type of blood cell or abnormal cells are found"
+        
+      },
+      {
+        "title":"Examination of skin moles",
+        "description":"This common blood test measures the amount of various types of blood cells in a sample of your blood. Blood cancers may be detected using this test if too many or too few of a type of blood cell or abnormal cells are found"
+        
+      }
+      
+
+    ],
+
     "skills":[
       {
         "name":"ReactJs",

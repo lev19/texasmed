@@ -25,9 +25,9 @@ function Header ({data}) {
 
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">Members</a></li>
-	         <li><a className="smoothscroll" href="#resume">Providers</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+            <li><a className="smoothscroll" href="#about">About</a></li>
+	         <li><a className="smoothscroll" href="#resume">Personal & Portable </a></li>
+            <li><a className="smoothscroll" href="#portfolio">Our partners</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
